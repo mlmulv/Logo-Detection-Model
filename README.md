@@ -90,18 +90,8 @@ Our code was implemented on a Tensorflow-2.7.0 kernel provided by University of 
 <!-- Authors -->
 ## Authors
 
-Markus Mulvihill - [LinkedIn](https://www.linkedin.com/in/markus-mulvihill-6549961a0/) - markus.mulvihill@ufl.edu
+Markus Mulvihill - [LinkedIn](https://www.linkedin.com/in/markus-mulvihill-6549961a0/) - markusmulvihill1103@gmail.com
 
-Andres Puello - apuello@ufl.edu
+Project Link: (https://github.com/mlmulv/Logo-Detection-Model/tree/main)
 
-Guillermo Cadima -g.cadima@ufl.edu
-
-Project Link: (https://github.com/mlmulv/https://github.com/UF-FundMachineLearning-Summer23/final-project---code-report-artificial-unintelligence)
-
-
-<!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
-
-* [Catia Silva](https://faculty.eng.ufl.edu/catia-silva/)
-* [Bradley Johnson](https://github.com/bradleyjohnsxn)
 

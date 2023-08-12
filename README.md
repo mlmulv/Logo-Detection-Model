@@ -60,7 +60,7 @@ Our code was implemented on a Tensorflow-2.7.0 kernel provided by University of 
 
 *  Clone the repo
    ```sh
-   git clone https://github.com/UF-FundMachineLearning-Summer23/final-project---code-report-artificial-unintelligence
+   git clone https://github.com/mlmulv/Logo-Detection-Model/tree/main
    ```
 
 <!-- USAGE EXAMPLES -->

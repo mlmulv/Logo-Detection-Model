@@ -83,6 +83,7 @@ Our code was implemented on a Tensorflow-2.7.0 kernel provided by University of 
    *  D. Labels from easy dataset will consist of the same integer encoded labels. While labels from the harder dataset will consist of a label of [-1] for classes than have not been seen by the model.
     * E. To test with an "easy" dataset you will enter a "0" for the difficulty input, and to test with a "hard" datset you will enter a "1".
     * F. Model will output accuracy of predicted labels compared to given labels, and a numpy array of the predicted labels.
+    * G. If you would like to use my trained model for testing you can use the **logo_classification_model.h5** to do so.
 
 
 

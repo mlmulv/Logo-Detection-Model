@@ -59,7 +59,7 @@ Our code was implemented on a Tensorflow-2.7.0 kernel provided by University of 
 
 *  Clone the repo
    ```sh
-   git clone https://github.com/mlmulv/Logo-Detection-Model/tree/main
+   git clone https://github.com/mlmulv/Logo-Detection-Model
    ```
 
 <!-- USAGE EXAMPLES -->
@@ -91,6 +91,6 @@ Our code was implemented on a Tensorflow-2.7.0 kernel provided by University of 
 
 Markus Mulvihill - [LinkedIn](https://www.linkedin.com/in/markus-mulvihill-6549961a0/) - markusmulvihill1103@gmail.com
 
-Project Link: (https://github.com/mlmulv/Logo-Detection-Model/tree/main)
+Project Link: (https://github.com/mlmulv/Logo-Detection-Model)
 
 

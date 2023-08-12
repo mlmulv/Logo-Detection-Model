@@ -89,7 +89,7 @@ Our code was implemented on a Tensorflow-2.7.0 kernel provided by University of 
 <!-- Authors -->
 ## Authors
 
-Markus Mulvihill - [LinkedIn](https://www.linkedin.com/in/markus-mulvihill-6549961a0/) - markusmulvihill1103@gmail.com
+Markus Mulvihill - [LinkedIn](https://www.linkedin.com/in/markus-mulvihill-6549961a0/) 
 
 Project Link: (https://github.com/mlmulv/Logo-Detection-Model)
 
